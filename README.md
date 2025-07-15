@@ -16,6 +16,15 @@ Each teammate should follow these instructions.
 7. Use the `cd` command to navigate to that directory.
 8. Use the `code .` command to open the project in Visual Studio Code.
 
+## Guidelines
+
+- A VSCode extension your team can use to collaborate is [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- LLM usage _(Copilot, ChatGPT, Claude, etc…)_ is not to be used for this project. It is your opportunity to collaboratively build your analytical and algorithmic thinking.
+- Building a sequence diagram to visualize your algorithmic thinking is recommended.
+- Don’t dominate the conversation and try to impress your will upon your teammates. Collaborate.
+- Don’t remain silent and let your teammates do all the work. Collaborate.
+- Use the logic and mechanisms covered in this book and the Foundations Course. We should not see array methods, spread operators, or any other advanced JavaScript mechanisms.
+  
 ## Project Overview
 
 There are 3 different actors in this system, and you will write functions in multiple modules of code to have them share data, and in the end, the restaurant will make its final purchases.
